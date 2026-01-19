@@ -1,4 +1,4 @@
-# SST Typst Template
+# IE School of Science and Technology Capstone Typst Template
 
 A document template for SST using Typst.
 
